@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./about.svg" width="100%" alt="About Zineb Laaroussi" />
+  <img src="./about.svg" width="100%" alt="About Zineb Laarousi" />
 </div>
 
 <div align="center">
@@ -21,6 +21,5 @@
 <br/>
 
 <div align="center">
-  <img src="./activity-header.svg" width="100%" alt="Activity" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ff283c&line=ff283c&point=ffffff&area=true&area_color=ff283c&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <img src="./data-pipeline.svg" width="100%" alt="Data pipeline animation" />
 </div>
