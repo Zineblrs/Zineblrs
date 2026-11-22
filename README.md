@@ -2,44 +2,34 @@
   <img src="./zineb_github_banner_HD%20(2).gif" width="100%" />
 </div>
 
-<br/>
+<h3 align="center">About Me</h3>
+
+I'm **Zineb Laarousi**, from Morocco 🇲🇦. I'm a Data & Software Engineering student at **ENSA Khouribga**, passionate about turning data, AI, and code into impactful solutions.
+
+* 🚀 **Building now:** Autonomous AI agents & full-stack web applications
+* 🎯 **Goal:** Specializing in Artificial Intelligence, Data Engineering & Cybersecurity
+* 🌌 **Interests:** Deep space, astronomy & dark minimalist aesthetics
+* 📫 **Reach out:** [zineb.laaroussi000@gmail.com](mailto:zineb.laaroussi000@gmail.com)
+
+---
+
+<h3 align="center">Technologies</h3>
 
 <div align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
+
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | `Python` • `Java` • `C` • `SQL` • `JavaScript` • `PHP` |
+| **Web & Backend** | `React` • `Django` • `JEE` • `HTML5` • `CSS3` |
+| **AI & Data** | `AWS Bedrock` • `LangChain` • `YOLOv8` • `Pandas` • `NumPy` • `Power BI` |
+| **Security & Tools** | `Cyber Risk (TPRM)` • `Git` • `Linux` • `MATLAB` |
+
 </div>
 
 ---
 
-### `>_ About_me`
-
-<img align="right" width="230" src="https://giphy.com" />
-
-```bash
-┌──(zineb㉿cosmos)-[~]
-└─\$ cat profile.txt
-
-> Name     : Zineb Laarousi
-> School   : ENSA Khouribga (Data & Software Engineering)
-> Exp      : AI Agent Developer @ Smartovate (AWS & LangChain)
-> Focus    : AI Agents • Data Engineering • Cyber Risk (TPRM)
-> Status   : Navigating code & deep space anomalies 🪐
-```
-
-<br clear="right"/>
-
----
-
-### `>_ Tech_Stack`
-
-* **Languages :** `Python` • `Java` • `C` • `SQL` • `JavaScript` • `PHP`
-* **Web & Frameworks :** `React` • `Django` • `JEE` • `HTML5` • `CSS3`
-* **Data & AI :** `AWS Bedrock` • `LangChain` • `YOLOv8` • `Pandas` • `NumPy` • `Power BI`
-* **Security & Tools :** `Cyber Risk Scoring (TPRM)` • `Git` • `Linux` • `MATLAB`
-
----
-
-### `>_ System_Stats`
+<h3 align="center">Activity</h3>
 
 <div align="center">
-  <img src="https://herokuapp.com" />
+  <img src="https://vercel.app" width="100%" />
 </div>
