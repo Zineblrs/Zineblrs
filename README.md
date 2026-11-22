@@ -1,1 +1,35 @@
-<div align="center"> <img src="./zineb_github_banner.gif" width="100%" alt="Welcome to Zineb's GitHub" /> </div> <div align="center"> <img src="./about.svg" width="100%" alt="About Zineb Laaroussi" /> </div> <div align="center"> <a href="mailto:zineb.laaroussi000@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-zineb.laaroussi000%40gmail.com-ff283c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /> </a> </div> <br/> <div align="center"> <img src="./tech-orbit.svg" width="100%" alt="Technologies: Python, Java, C, SQL, JavaScript, PHP, React, Django, JEE, HTML5, CSS3, AWS Bedrock, LangChain, YOLOv8, Pandas, NumPy, Power BI, Cyber Risk (TPRM), Git, Linux, MATLAB" /> </div> <br/> <div align="center"> <img src="./activity-header.svg" width="100%" alt="Activity" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ff283c&line=ff283c&point=ffffff&area=true&area_color=ff283c&hide_border=true" width="100%" alt="GitHub activity graph" /> </div>
+<div align="center">
+  <img src="./zineb_github_banner_HD%20(2).gif" width="100%" />
+</div>
+
+<h3 align="center">About Me</h3>
+
+I'm **Zineb Laarousi**, from Morocco 🇲🇦. I'm a Data & Software Engineering student at **ENSA Khouribga**, passionate about turning data, AI, and code into impactful solutions.
+
+* 🚀 **Building now:** Autonomous AI agents & full-stack web applications
+* 🎯 **Goal:** Specializing in Artificial Intelligence, Data Engineering & Cybersecurity
+* 🌌 **Interests:** Deep space, astronomy & dark minimalist aesthetics
+* 📫 **Reach out:** [zineb.laaroussi000@gmail.com](mailto:zineb.laaroussi000@gmail.com)
+
+---
+
+<h3 align="center">Technologies</h3>
+
+<div align="center">
+
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | `Python` • `Java` • `C` • `SQL` • `JavaScript` • `PHP` |
+| **Web & Backend** | `React` • `Django` • `JEE` • `HTML5` • `CSS3` |
+| **AI & Data** | `AWS Bedrock` • `LangChain` • `YOLOv8` • `Pandas` • `NumPy` • `Power BI` |
+| **Security & Tools** | `Cyber Risk (TPRM)` • `Git` • `Linux` • `MATLAB` |
+
+</div>
+
+---
+
+<h3 align="center">Activity</h3>
+
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
