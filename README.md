@@ -7,13 +7,11 @@
 <h2 align="center">Hi, I'm Zineb Laarousi</h2>
 
 <p align="center">
-  I'm a <b>Data & Software Engineering</b> student at <b>ENSA Khouribga</b>,<br/>
+  I'm a <b>Data & Software Engineering</b> student ,<br/>
   passionate about turning <b>data</b>, <b>AI</b> & <b>code</b> into impactful solutions.
 </p>
 
-<p align="center">
-  My goal: build a career in <b>Artificial Intelligence</b> and <b>Data Engineering</b>.
-</p>
+
 
 <br/>
 
